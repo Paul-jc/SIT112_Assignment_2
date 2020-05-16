@@ -18,10 +18,10 @@ Group Member
 Person 1 - Paul Clarke
 
 Part 1	Part 2A	Part 2B	Part 2C
-Q 1.1	Q 2.1	Q 2.7	Q 2.18
-Q 1.5	Q 2.2	Q 2.8	Q 2.19
-Q 1.7	 	Q 2.9	Q 2.20
- 	 	Q 2.10	Q 2.21
+Q ~~1.1~~	Q ~~2.1~~	Q ~~2.7~~	Q 2.18
+Q ~~1.5~~	Q ~~2.2~~	Q ~~2.8~~	Q 2.19
+Q ~~1.7~~	 	Q ~~2.9~~	Q 2.20
+ 	 	Q ~~2.10~~	Q 2.21
  	 	Q 2.14
 
 Person 2 - Neath Sokhom
